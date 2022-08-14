@@ -1,4 +1,2 @@
-# Aplikasi-Login2
+Aplikasi-Login2
 Sebuah aplikasi buat login
-
-ganti home
